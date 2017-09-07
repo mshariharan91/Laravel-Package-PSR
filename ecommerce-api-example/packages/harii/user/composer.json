@@ -1,0 +1,12 @@
+{
+    "name": "landmark/user",
+    "description": "User Module",
+    "authors": [
+        {
+            "name": "mshariharan91",
+            "email": "mshariharan91@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "landmark/admin",
+    "description": "Admin Module",
+    "authors": [
+        {
+            "name": "mshariharan91",
+            "email": "mshariharan91@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

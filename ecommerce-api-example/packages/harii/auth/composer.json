@@ -1,0 +1,12 @@
+{
+    "name": "landmark/auth",
+    "description": "Auth Module",
+    "authors": [
+        {
+            "name": "Hariharan",
+            "email": "mshariharan91@gmal.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
